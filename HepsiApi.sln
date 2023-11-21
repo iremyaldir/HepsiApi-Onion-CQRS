@@ -9,15 +9,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{2F5CC864-5AF7-43D6-AB94-FA9D21349D03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiApi.Application", "Core\HepsiApi.Application\HepsiApi.Application.csproj", "{C1BCD780-7E74-40BC-96D4-26D765FFA83C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HepsiApi.Application", "Core\HepsiApi.Application\HepsiApi.Application.csproj", "{C1BCD780-7E74-40BC-96D4-26D765FFA83C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiApi.Domain", "Core\HepsiApi.Domain\HepsiApi.Domain.csproj", "{31D4D2E2-17A3-4C7D-BB3D-3F65302211A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HepsiApi.Domain", "Core\HepsiApi.Domain\HepsiApi.Domain.csproj", "{31D4D2E2-17A3-4C7D-BB3D-3F65302211A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiApi.Persistence", "Infrastructure\HepsiApi.Persistence\HepsiApi.Persistence.csproj", "{1C2C1405-D128-499C-BD97-30AD538EFFA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HepsiApi.Persistence", "Infrastructure\HepsiApi.Persistence\HepsiApi.Persistence.csproj", "{1C2C1405-D128-499C-BD97-30AD538EFFA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiApi.Infrastructure", "Infrastructure\HepsiApi.Infrastructure\HepsiApi.Infrastructure.csproj", "{5A89C320-4F3F-4E9F-BD19-B135875F5928}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HepsiApi.Infrastructure", "Infrastructure\HepsiApi.Infrastructure\HepsiApi.Infrastructure.csproj", "{5A89C320-4F3F-4E9F-BD19-B135875F5928}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiApi.Api", "Presentation\HepsiApi.Api\HepsiApi.Api.csproj", "{6D47ABAF-5CC1-4F81-9B36-31855DD91A0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HepsiApi.Api", "Presentation\HepsiApi.Api\HepsiApi.Api.csproj", "{6D47ABAF-5CC1-4F81-9B36-31855DD91A0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
