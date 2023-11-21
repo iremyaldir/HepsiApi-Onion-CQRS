@@ -19,5 +19,6 @@ namespace HepsiApi.Domain.Entities
 		//Brand ve product arasında bire bir ilişki var.
 		public Brand Brand { get; set; }
 		public ICollection<Category> Categories { get; set; }
+		//yukarıdaki işlem product ile many-to-many ilişkisi içinde olduğunu gösterir.
 	}
 }
